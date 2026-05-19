@@ -1,13 +1,15 @@
-## Hi there 👋
+# 💻 Tech Stack:
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=for-the-badge" alt="MySQL Badge">
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=fff&style=for-the-badge" alt="C Badge">
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge" alt="Python Badge">
+</p>
+
 
 <!--
 **thetaplo/thetaplo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-### 🛠️ My Tech Stack (我的技术栈)
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=fff&style=flat-square" alt="MySQL Badge">
-</p>
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...

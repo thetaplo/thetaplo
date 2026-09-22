@@ -1,9 +1,12 @@
 # 💻 Tech Stack:
 <p align="left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+    <img width="32" height="32" alt="C++" src="https://github.com/user-attachments/assets/4bccb748-b9bc-4f23-8c2c-c664f0e12bdb" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/MySQL-F29111?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  
+<img width="32" height="32" alt="Linux" src="https://github.com/user-attachments/assets/3da4cefd-3e79-4860-93f3-ffb5f8187a12" />
+<img width="32" height="32" alt="asm" src="https://img.icons8.com/?size=100&id=gVK745a4Vaur&format=png&color=000000"/>
+
 </p>
 
 
